@@ -4,6 +4,7 @@
 - Yan
 - Vinicius
 
+<<<<<<< HEAD
 ## Trechos de código
 
 ``` bash
@@ -33,3 +34,26 @@ git add nome.txt
 # Fazendo commit
 git commit -m "Adicionando nome ao arquivo nome.txt"
 ```
+=======
+## Listas
+
+Esse são exemplos de listas não ordenadas
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+Esse são exemplos de listas ordenadas 
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+Exemplo de lista aninhada
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+Exemplo de check list
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+>>>>>>> 0d82f6d686ad6eef31741a3e3184655ad48ff26a
