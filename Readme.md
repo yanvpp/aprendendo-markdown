@@ -4,7 +4,6 @@
 - Yan
 - Vinicius
 
-<<<<<<< HEAD
 ## Trechos de código
 
 ``` bash
@@ -34,7 +33,6 @@ git add nome.txt
 # Fazendo commit
 git commit -m "Adicionando nome ao arquivo nome.txt"
 ```
-=======
 ## Listas
 
 Esse são exemplos de listas não ordenadas
@@ -56,4 +54,3 @@ Exemplo de check list
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
->>>>>>> 0d82f6d686ad6eef31741a3e3184655ad48ff26a
